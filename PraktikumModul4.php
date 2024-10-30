@@ -1,3 +1,4 @@
+// ainaya
 <?php
 // Array untuk menyimpan data barang
 $barang = [
